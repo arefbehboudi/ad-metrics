@@ -1,0 +1,18 @@
+[
+  {
+    "impression_id": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
+    "revenue": 1.25
+  },
+  {
+    "impression_id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+    "revenue": 0.75
+  },
+  {
+    "impression_id": "c3d4e5f6-a7b8-9012-3456-789abcdef012",
+    "revenue": 1.50
+  },
+  {
+    "impression_id": "d4e5f6a7-b8c9-0123-4567-89abcdef0123",
+    "revenue": 2.00
+  }
+]
